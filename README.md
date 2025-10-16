@@ -9,5 +9,5 @@ Also, to gain hands-on experience with version control and GitHub collaboration 
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here] (https://github.com/Aiman-Alias)
+You can view my personalized GitHub profile [here](https://github.com/Aiman-Alias)
 
