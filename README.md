@@ -1,11 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
 # Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
+Hi! I'm Nurmohamad Aiman, a student in the Software Maintenance and Evolution course. 
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+As a small time indie game developer, I expected to know on how to maintain and improve softwares over time as these two aspects are crucial in game development.
+
+Also, to gain hands-on experience with version control and GitHub collaboration and learn about modern software maintenance practices for the sake of my future job.
+
+![My Image](gigachad.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile [here] (https://github.com/Aiman-Alias)
 
